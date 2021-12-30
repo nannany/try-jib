@@ -38,3 +38,4 @@ jib {
         image = 'nannany/try-jib'
     }
 }
+
